@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "mute-self-markers",
+    "author": "teralove / bobby",
+    "description": "Prevent yourself from sending message to specific channels.",
+    "options": {
+        "niceName": "Mute Self",
+		"settingsVersion": 1.1,
+		"settingsFile": "config.json",
+		"settingsMigrator": "settings_migrator.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/sb032835/mute-self/master/"]
+}
