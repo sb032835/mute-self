@@ -13,3 +13,5 @@ Prevent yourself from sending message to specific channels. (Default channels: G
 - `math list`
   - show channel list
 ---
+
+[Donate for tera love ⎛⎝≥⏝⏝≤⎠⎞ ](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PXRFYB39SQP4A&lc=US&item_name=teralove&no_note=0&cn=Add%20special%20instructions%20to%20the%20seller%3a&no_shipping=1&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)
